@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdelete",
+        "uuid": 4294088,
+        "checksum": "nyvso"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
